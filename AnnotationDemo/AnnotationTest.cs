@@ -36,7 +36,6 @@ namespace AnnotationDemo
             {
                 Console.WriteLine("Name: " + objEmployee.Name + "\n" + "Age: " + objEmployee.Age + "\n" + "PhoneNumber: " + objEmployee.PhoneNumber + "\n" + "Email: " + objEmployee.Email);
             }
-            Console.WriteLine("Enter To Exit");
             Console.ReadKey();
 
         }
